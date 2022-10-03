@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Surya Prabhas",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "suryaprabhas83@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "none",
+    "summary": "I am studying intermediate at Andhra Pradesh ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "534342",
+      "city": "Nidadavole",
+      "countryCode": "In",
+      "region": "India"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SuryaPrabhas",
+        "url": "http://github.com/SuryaPrabhas1245"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "Telegram",
+        "username": "SuryaPrabhas",
+        "url": "www.telegram.me/SuryaPrabhas"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Snapchat",
+        "username": "GodButcher1",
+        "url": "https://www.snapchat.com/add/godbutcher1?share_id=0mNd2xC-q-g&locale=en-GB"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "SuryaPrabhas",
+        "url": "http://instagram.com/suryaprabhasp"
       }
     ]
   },
